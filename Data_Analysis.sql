@@ -83,7 +83,7 @@ INSERT INTO Actual_revenuesegments_2025 (Year, RMG_Revenue_INR_Cr, CasualGaming_
 VALUES 
 (2025,0,4750,0);
 
--- This inserts the data in the usermetrics table.
+-- This inserts the data in the Usermetrics table.
 INSERT INTO Usermetrics (Year, Total_Gamers_Mn, Paid_Users_Mn, Free_Users_Mn)
 VALUES 
 (2021,390,80,310),
@@ -93,6 +93,7 @@ VALUES
 (2025,517,170,347),
 (2026,545,196,349);
 
+-- This inserts the data in the PreBill_Revenue_Top5_RMG_Companies table.
 INSERT INTO PreBill_Revenue_Top5_RMG_Companies (CompanyName, Revenue_INR_Cr)
 VALUES 
 ('Dream11', 6384),
