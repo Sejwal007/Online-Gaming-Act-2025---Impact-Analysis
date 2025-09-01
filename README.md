@@ -15,6 +15,7 @@ The analysis concluded that the act would cause an 86% market contraction, drive
 
 https://github.com/Sejwal007/Online-Gaming-Act-2025---Impact-Analysis/blob/main/Dashboard-Screenshot-Part1.png
 https://github.com/Sejwal007/Online-Gaming-Act-2025---Impact-Analysis/blob/main/Dashboard-Screenshot-Part2.png
+https://github.com/Sejwal007/Online-Gaming-Act-2025---Impact-Analysis/blob/main/Dashboard-Screenshot-Part3.png
 
 ## Business Recommendations
 Based on the analysis, I proposed a two-phase strategy for affected companies:
